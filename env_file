@@ -1,0 +1,2 @@
+export JWT_SECRET='YourJWTSecret'
+export LOG_LEVEL=DEBUG
